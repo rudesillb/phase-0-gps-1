@@ -1,4 +1,5 @@
 # phase-0-gps-1
+<<<<<<< HEAD
 Group Pairing Session 1
 ```
 cd
@@ -34,3 +35,6 @@ git checkout -b branch-name
 subl .
 ```
 - Opens all of the files in sublime
+=======
+Group Pairing Session
+>>>>>>> master
